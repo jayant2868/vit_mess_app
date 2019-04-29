@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/studentlist"
+            android:title="Registered Student's List"
+            android:icon="@drawable/regis"
+            />
+        <item
+            android:id="@+id/menu"
+            android:title="Today's Menu"
+            android:icon="@drawable/messq"/>
+        <item
+            android:id="@+id/newregistration"
+            android:title="New Registrations"
+            android:icon="@drawable/regis"
+            />
+        <item
+            android:id="@+id/complaints"
+            android:title="Complaints"
+            android:icon="@drawable/complaints"/>
+        <item
+            android:id="@+id/polling"
+            android:title="Create Polling"
+            android:icon="@drawable/polli"/>
+        <item
+            android:id="@+id/logout"
+            android:title="LOGOUT"
+            android:icon="@drawable/logout"/>
+    </group>
+</menu>

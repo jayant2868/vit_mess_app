@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "523217322340",
+    "firebase_url": "https://meandmymess4.firebaseio.com",
+    "project_id": "meandmymess4",
+    "storage_bucket": "meandmymess4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523217322340:android:41cd25e1a0ce0b90",
+        "android_client_info": {
+          "package_name": "com.example1.jayantsharma.meandmymess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523217322340-b8cph3ttmge14gbo8mu9qisi8r421qbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example1.jayantsharma.meandmymess",
+            "certificate_hash": "0c1eae6d685b8b33996a5ad31a351384bdaf6930"
+          }
+        },
+        {
+          "client_id": "523217322340-t3sldm2th39d87igh72glkcd7dlqn5jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgHUaXH8kkxTCInYLAj915V2xz0sRAufs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523217322340-t3sldm2th39d87igh72glkcd7dlqn5jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

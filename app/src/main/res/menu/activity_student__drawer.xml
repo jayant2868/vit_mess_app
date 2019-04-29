@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mymess"
+            android:title="My Mess"
+            android:icon="@drawable/messq"/>
+        <item
+            android:id="@+id/othermess"
+            android:title="Other Mess"
+            android:icon="@drawable/messq"
+            />
+        <item
+            android:id="@+id/messmanager"
+            android:title="Mess Manager"
+            android:icon="@drawable/vit_manager"/>
+        <item
+            android:id="@+id/messchange"
+            android:title="Mess Change"
+            android:icon="@drawable/messchange"/>
+        <item
+            android:id="@+id/polling"
+            android:title="Start Polling"
+            android:icon="@drawable/polli"
+            />
+        <item
+            android:id="@+id/complaints"
+            android:title="Complaints"
+            android:icon="@drawable/complaints"/>
+        <item
+            android:id="@+id/logout"
+            android:title="LOGOUT"
+            android:icon="@drawable/logout"/>
+    </group>
+
+</menu>
